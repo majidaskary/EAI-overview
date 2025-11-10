@@ -26,19 +26,19 @@ Core components include emotion dynamics, appraisal-based modulation, drive-base
 
 ## Getting Started
 ### 1. Clone the repository
-git clone https://github.com/majidaskary/EAI.git
+```git clone https://github.com/majidaskary/EAI.git
 cd EAI
-
+```
 ### 2. Create virtual environment (optional)
-python -m venv eai_env
+```python -m venv eai_env
 source eai_env/bin/activate   # or eai_env\Scripts\activate
-
+```
 ### 3. Install dependencies
-pip install -r requirements.txt
-
+```pip install -r requirements.txt
+```
 ### 4. Run a simple training/test scenario
-python scenario_train.py --episodes 1 --style generated
-
+```python scenario_train.py --episodes 1 --style generated
+```
 This will:
 - load the agent
 - process emotional appraisal
