@@ -3,7 +3,7 @@
 <img src="info/background.png" alt="background" width="85%">
 
 ## Overview
-**Repository**: `https://github.com/majidaskary/07-delivery_market_Team_6/tree/main`  
+**Repository**: `https://github.com/majidaskary/EAI.git`  
 **Type**: Personal R&D Project  
 **Duration**: Sep 2025 ‐ Present    
 **Team**: Group Project 
