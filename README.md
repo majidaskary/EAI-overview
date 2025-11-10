@@ -140,9 +140,9 @@ See the full license in the [![License](https://img.shields.io/badge/License-Apa
 
 Developer: Majid Askary
 
-✉️ Email: m.askary84@yahoo.com
+Email: m.askary84@yahoo.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/majidaskary
+LinkedIn: https://www.linkedin.com/in/majidaskary
 
 
 
