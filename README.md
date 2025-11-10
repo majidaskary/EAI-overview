@@ -19,7 +19,7 @@ The system maintains internal emotional states, learns from user interactions, u
 Core components include emotion dynamics, appraisal-based modulation, drive-based motivation, RL policy learning, and a lightweight hybrid LLM conditioning pipeline.
 
 ##
-### project Structure
+### Project Structure
 ```
 │   .gitignore
 │   agent_core/                 # Main agent loop and hybrid reasoning pipeline
