@@ -6,7 +6,7 @@
 **Repository**: `https://github.com/majidaskary/EAI.git`  
 **Type**: Personal R&D Project  
 **Duration**: Sep 2025 ‐ Present    
-**Team**: Group Project 
+**Team**: Individual Project (for now)
 
 Hybrid Emotional–Cognitive Agent with LLM Integration
 
