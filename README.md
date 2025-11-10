@@ -18,7 +18,7 @@ This project explores how emotional models, cognitive appraisal mechanisms, rein
 The system maintains internal emotional states, learns from user interactions, updates expectations through prediction errors, and generates context-aware responses using an LLM.
 Core components include emotion dynamics, appraisal-based modulation, drive-based motivation, RL policy learning, and a lightweight hybrid LLM conditioning pipeline.
 
-##
+
 ## Getting Started
 ### 1. Clone the repository
 git clone https://github.com/majidaskary/EAI.git
@@ -41,8 +41,7 @@ This will:
 - apply RL action selection
 - generate an LLM-conditioned response
   
-##
-### Project Structure
+## Project Structure
 ```
 EAI/
 │
@@ -71,7 +70,6 @@ EAI/
 └── README.md
 ```
 
-##
 ### Roadmap (High-Level)
 
 ### Phase A — Emotion Model
@@ -94,7 +92,6 @@ EAI/
   - Dynamic reward weight adaptation
   - LLM integration with internal emotional state
 
-##
 ### Key Features:
 
 - Formal emotion modeling (Plutchik-8 + appraisal variables)
@@ -104,8 +101,7 @@ EAI/
 - LLM-conditioned responses informed by internal affective state
 - Modular and extensible architecture for research use
 
-##
-### Contact:
+## Contact:
 
 Developer: Majid Askary
 
