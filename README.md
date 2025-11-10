@@ -12,7 +12,7 @@
 **Team**: Individual Project (for now)
 
 <p align="center">
-  ## Hybrid Emotional–Cognitive Agent with LLM Integration
+  **Hybrid Emotional–Cognitive Agent with LLM Integration**
 </p>
 This project explores how emotional models, cognitive appraisal mechanisms, reinforcement learning, and large language models can be combined to build an adaptive interactive agent.
 The system maintains internal emotional states, learns from user interactions, updates expectations through prediction errors, and generates context-aware responses using an LLM.
