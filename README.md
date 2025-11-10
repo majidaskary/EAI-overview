@@ -30,9 +30,9 @@ Core components include emotion dynamics, appraisal-based modulation, drive-base
 │   utils/                      # Shared tools and helpers
 │   examples/                   # Sample scenarios and testing scripts
 │   README.md
+```
 
-
-### Key Features
+** Key Features**:
 
 - Formal emotion modeling (Plutchik-8 + appraisal variables)
 - Cognitive appraisal integration
@@ -42,7 +42,7 @@ Core components include emotion dynamics, appraisal-based modulation, drive-base
 - Modular and extensible architecture for research use
 
 
-### Contact
+** Contact**:
 
 ✉️ Email: m.askary84@yahoo.com
 🔗 LinkedIn: https://www.linkedin.com/in/majidaskary
