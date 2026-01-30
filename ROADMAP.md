@@ -28,3 +28,5 @@ Future directions for the Hybrid Emotional Agent project.
 - outline modules  
 - define interfaces  
 - prepare for prototyping (future work)
+
+
