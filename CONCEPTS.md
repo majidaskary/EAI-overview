@@ -1,5 +1,6 @@
 
 # CORE CONCEPTS  
+
 Key theoretical domains involved in the Emotional Agent project.
 
 ---
