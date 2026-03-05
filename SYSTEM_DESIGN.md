@@ -7,6 +7,7 @@ This document describes the foundational system design ideas behind the project.
 ---
 
 ## 1. System Identity  
+
 The system is an **Emotional Agent** combining:
 
 - cognitive evaluation  
