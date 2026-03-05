@@ -1,4 +1,5 @@
 # Personal R&D Project:  
+
 ## Hybrid Emotional Agent with LLM Integration
 
 This project is a research initiative focused on developing a **Hybrid Emotional Agent** — an agent that integrates **Large Language Models (LLMs)**, **cognitive–affective modeling**, and **reinforcement-learning–inspired adaptation**.  
