@@ -1,4 +1,5 @@
 # GUIDELINES  
+
 Community, collaboration, and documentation rules.
 
 ---
