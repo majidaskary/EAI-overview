@@ -69,6 +69,7 @@ High-level structures for:
 
 ---
 
+
 ## Conceptual Agent Loop
 
 User Input → Cognitive Appraisal → Emotional State Update → Drives & Desires Influence → Hybrid Action Selection (RL + Affect + Cognitive Signals) → LLM-Conditioned Response Generation → Reward & Feedback Integration → Memory & State Adaptation
