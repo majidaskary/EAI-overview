@@ -18,6 +18,7 @@ Designing agents with internal affective variables, dynamic emotional states, mo
 High-level appraisal, expectation shaping, and reasoning structures that provide context-aware interpretation and internal evaluation.
 
 ### • Reinforcement-Learning Concepts  
+
 Adaptive behavioral tendencies shaped by reward feedback, state transitions, emotional progress measures, and long-term adjustment.
 
 ### • Hybrid LLM Integration  
@@ -69,7 +70,6 @@ High-level structures for:
 
 ---
 
-
 ## Conceptual Agent Loop
 
 User Input → Cognitive Appraisal → Emotional State Update → Drives & Desires Influence → Hybrid Action Selection (RL + Affect + Cognitive Signals) → LLM-Conditioned Response Generation → Reward & Feedback Integration → Memory & State Adaptation
@@ -114,5 +114,3 @@ This repository serves as a **public-facing showcase** of a next-generation
 evaluating, feeling, deciding, and adapting within a unified conceptual architecture.  
 All descriptions are high-level and safe for publication while reflecting the  
 technical depth and interdisciplinary nature of the project.
-
-
